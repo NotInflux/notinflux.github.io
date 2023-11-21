@@ -1,1 +1,1 @@
-# notinflux.github.io
+# NotInflux
